@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px 20px;
+    background: #f0f7f2;
+    color: #20352a;
+    text-align: center;
+}
+
+header {
+    padding: 30px 10px;
+}
+
+main {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 16px;
+}
+
+button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    background: #247548;
+    color: white;
+    cursor: pointer;
+}
